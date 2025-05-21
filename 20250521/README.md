@@ -7,3 +7,8 @@ Open up notepad (or VI/VIM/EMACS) and write an HTML 5 compliant web page that di
 Senior React developers are up in arms with how unfair the question is. And worse? No AI allowed, no Internet look-up allowed. They are being forced to code this challenge live and failing. 
 
 What do you think? Is it fair to ask knock-out technical questions? Is this question too hard and too challenging for Senior React Developers with 8 years experience? Is giving an hour not enough time?
+
+# Proof is in the pudding
+
+- (index.html)
+- (HTML5-Validator.pdf)
