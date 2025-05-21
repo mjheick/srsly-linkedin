@@ -10,5 +10,5 @@ What do you think? Is it fair to ask knock-out technical questions? Is this ques
 
 # Proof is in the pudding
 
-- (index.html)
-- (HTML5-Validator.pdf)
+- [index.html]
+- [HTML5-Validator.pdf]
